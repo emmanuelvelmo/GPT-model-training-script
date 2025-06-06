@@ -1,2 +1,8 @@
-# GPT-model-training-script
-GPT model training example with Python
+# GPT model training script
+-
+ 
+ <p align="left">
+  <strong>-</strong>
+  <br/>
+  <img src=""/>
+</p>
